@@ -1,0 +1,10 @@
+{
+  "slug": "/fr",
+  "title": "Acceuil",
+  "sections": [
+    {
+      "body": "# Titre 1\n\nParagraphe\n",
+      "_template": "heroSection"
+    }
+  ]
+}
